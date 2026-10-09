@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [agent-webbridge](https://github.com/jeet-dhandha/agent-webbridge) - Drive your real, logged-in Chrome across several profiles with parallel tabs, as a skill or MCP server. Local only.
 
 ## 📰 Articles & Blog Posts
 
